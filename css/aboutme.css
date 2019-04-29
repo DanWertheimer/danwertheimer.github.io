@@ -1,0 +1,32 @@
+
+#aboutme-section {
+  font-size: 19px;
+}
+
+.about-text {
+  position: relative;
+  margin-left: 30px;
+}
+
+.about-icon {
+  font-size: 24px;
+  position: absolute;
+  left: -40px;
+  margin-top: 5px;
+}
+
+#aboutme-section p:last-child {
+  margin-bottom: 0;
+}
+
+a:link {
+    color: #A51D1D;
+}
+
+a:visited {
+    color: #968E8E;
+}
+
+a:hover {
+    color: #1DA5A5;
+}
