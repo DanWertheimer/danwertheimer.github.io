@@ -1,0 +1,16 @@
+{
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+            "path": "/Users/danwertheimer/site/Documents⁩/⁨GitHub⁩/Websites⁩/danwertheimer.github.io/"
+        }
+    ],
+    "settings":
+    {
+        "Jekyll":
+        {
+            "jekyll_auto_find_paths": true
+        }
+    }
+}
