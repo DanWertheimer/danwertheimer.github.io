@@ -11,7 +11,7 @@ AFL:MSLFGK
 
 SDGK:DSLGK
 
-Test text over here
+We <i class="fas fa-heart" aria-hidden="true" style="color:#c7254e"></i> GitLab!
 
 DS:LFG:LASDKGL:KSA
 
