@@ -27,6 +27,6 @@ css: /css/aboutme.css
 </p>
 
 <p class = "about-text">
-	<span class = "fa fa-home about-icon"></span> Grew up and now live in <i>Johannesburg, South Africa</i> with no intention of moving. 
+	<span class = "fa fa-home about-icon"></span> Grew up and now live in <i>Johannesburg, South Africa</i> with no intention of moving.
 </p>
 
