@@ -23,6 +23,7 @@ css: /css/aboutme.css
 		<li><strong>Gym and Fitness</strong> - I started training seriously at the beginning of 2017 after losing <strong>26kgs</strong>, I hired a coach midway through the same year to help me along this journey. </li>
 		<li><strong>Food</strong> - I love food. There's nothing more to say.</li>
 		<li><strong>Coffee</strong> - Ethically sourced, fair trade goodness.</li>
+		<li><strong>Space flight & Physics</strong> - Two of the discplines I was obsessed with prior to data science and continue to follow.</li>
 	</ul>
 </p>
 
