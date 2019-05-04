@@ -109,7 +109,7 @@ share-links-active:
 #agtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-139603431-1"
+google_analytics: "UA-139603431-2"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -255,7 +255,6 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-# Google Analytics
-google_analytics: UA-139603431-1
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
