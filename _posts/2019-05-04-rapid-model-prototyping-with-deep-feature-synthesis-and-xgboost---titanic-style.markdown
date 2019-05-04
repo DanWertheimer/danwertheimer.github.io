@@ -3,6 +3,7 @@ title: Rapid Model Prototyping with Deep Feature Synthesis and XGBoost - Titanic
 layout: post
 comments: true
 tags: data-science
+permalink: /rapid-model-prototyping-with-deep-feature-synthesis-and-xgboost
 ---
 
 
