@@ -3691,3 +3691,5 @@ In my workflow, when I need to decide whether a problem is worth working on, rap
 
 This is only the beginning though. If you apply your domain knowledge on top of a problem and then use DFS, you may be able to eek out that extra bit of accuracy to your model and thus not only is this valuable for rapid prototyping but also to be added as a tool in your data science toolbox.
 
+
+You can view the full notebook over on my (GitHub Page)[https://github.com/DanWertheimer/PersonalResources/blob/master/Notebooks/Titanic%20-%20Rapid%20Prototyping.ipynb]
