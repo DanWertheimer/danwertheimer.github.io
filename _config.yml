@@ -255,6 +255,9 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
+webmaster_verifications:
+  google: "ArE9A6w0hjG7J8f1FAL-fGxBVfcB48fCu5tL_Gskz4U"
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
