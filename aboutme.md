@@ -10,7 +10,7 @@ css: /css/aboutme.css
 </p>
 
 <p class="about-text">
-	<span class="fa fa-graduation-cap about-icon"></span> Currently working towards an MIT in <strong>Big Data Science</strong> at the University of Pretoria. Obtained my BSc Hons in <strong>Physics</strong> from the same university. My Master's dissertation involves fraud detection within the health insurance industry. My honours dissertation covered <a href="https://drive.google.com/file/d/0B1jvZl9bLwcSUUxjaHVfQWwybTQ/view?usp=sharing">General Realtivity and the Black Ring Coordinate System</a>.
+	<span class="fa fa-graduation-cap about-icon"></span> Currently working towards an MIT in <strong>Big Data Science</strong> at the University of Pretoria. Obtained my BSc Hons in <strong>Physics</strong> from the same university. My Master's dissertation involves fraud detection within the health insurance industry. My honours dissertation covered <a href="https://drive.google.com/file/d/0B1jvZl9bLwcSUUxjaHVfQWwybTQ/view?usp=sharing">General Relativity and the Black Ring Coordinate System</a>.
 </p>
 
 <p class = "about-text">
@@ -23,7 +23,7 @@ css: /css/aboutme.css
 		<li><strong>Gym and Fitness</strong> - I started training seriously at the beginning of 2017 after losing <strong>26kgs</strong>, I hired a coach midway through the same year to help me along this journey. </li>
 		<li><strong>Food</strong> - I love food. There's nothing more to say.</li>
 		<li><strong>Coffee</strong> - Ethically sourced, fair trade goodness.</li>
-		<li><strong>Space flight & Physics</strong> - Two of the discplines I was obsessed with prior to data science and continue to follow.</li>
+		<li><strong>Space flight & Physics</strong> - Two of the disciplines I was obsessed with prior to data science and continue to follow.</li>
 	</ul>
 </p>
 
