@@ -1,5 +1,7 @@
 ---
 title: Rapid Model Prototyping with Deep Feature Synthesis and XGBoost - Titanic Style
+description: A 30 minute approach to building baseline data science models.
+author: Daniel Wertheimer
 layout: post
 comments: true
 tags: data-science
