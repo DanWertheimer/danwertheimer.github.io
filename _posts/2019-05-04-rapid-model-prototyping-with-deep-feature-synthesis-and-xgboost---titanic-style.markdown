@@ -9,7 +9,7 @@ permalink: /rapid-model-prototyping-with-deep-feature-synthesis-and-xgboost
 ---
 
 
-It is a well known fact that data scientists spend the majority of their time cleaning and wrangling data before they begin to start to model a problem. For a well defined problem with relatively clean data and knowledge of the problem domain, the time taken is far less. But when tasked with a problem that we aren't as knowledgeable about, how can a data scientists make the best use of his/her time to determine whether a problem is solvable with the data provided?
+It is a well known fact that data scientists spend the majority of their time cleaning and wrangling data before they begin to start to model a problem. For a well defined problem with relatively clean data and knowledge of the problem domain, the time taken is far less. But when tasked with a problem that we aren't as knowledgeable about, how can a data scientist make the best use of his time to determine whether a problem is solvable with the data provided?
 
 
 {% include image.html
@@ -25,7 +25,7 @@ This is my personal take on determining whether a project can be completed given
 The goal of **Rapid Prototyping** is simple:
 <p style="text-align: center;"><strong>What is the simplest and fastest model implementation that will give us a baseline working prototype?</strong></p>
 
-The concern any data science will have now is that: We want to build a model but we have yet to focus on that data. And without knowledge of the problem domain, how can we determine what features we should generate and use to implement this solution? I'll answer the question of feature selection shortly, but first let's look at how we'll automatically generate meaningful features.
+The concern any data scientist will have now is that: We want to build a model but we have yet to focus on that data. And without knowledge of the problem domain, how can we determine what features we should generate and use to implement this solution? I'll answer the question of feature selection shortly, but first let's look at how we'll automatically generate meaningful features.
 
 ## Deep Feature Synthesis
 Invented by MIT and first showcased in 2015, [Deep Feature Synthesis](http://www.jmaxkanter.com/static/papers/DSAA_DSM_2015.pdf) was originally designed to speed up the process of building predictive models on multi-table datasets.
@@ -3657,7 +3657,7 @@ Split the training set into our training and testing split for model validation,
 X_train, X_test, y_train, y_test = train_test_split(train_X, train_y, test_size=0.2, random_state=42)
 ```
 
-Run our XGBoost with some very standard 
+Run our XGBoost with some very standard parameters.
 
 ```python
 gbm = xgb.XGBClassifier(max_depth=4, n_estimators=300, learning_rate=0.05, random_state=42)
