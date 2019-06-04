@@ -1,10 +1,37 @@
 ---
 layout: page
 title: About me
-subtitle: Data, Food, Fitness 
+subtitle: Data, Food, Fitness
 published: true
 css: /css/aboutme.css
 ---
+
+<h1 class="ui header">Upcoming Talks:</h1>
+<div class="ui divided items">
+  <div class="item">
+    <div class="ui small image">
+      <img src="/img/Conferences/CDAO2019.jpg">
+    </div>
+    <div class="middle aligned content">
+      <a href="https://cdao-af.coriniumintelligence.com/"> 17-18 July: Chief Data & Analytics Officer 2019 </a> <br>
+	   - Using & Adapting Data Science Products Across the Business Group
+
+    </div>
+
+  </div>
+  <div class="ui divided items">
+  <div class="item">
+    <div class="ui small image">
+      <img src="/img/Conferences/DSAfrica2019.jpg">
+    </div>
+    <div class="middle aligned content">
+      <a href="https://datascience-af.coriniumintelligence.com">6-7 November: Data Science Africa 2019: </a> <br>
+	  - Data Science Modelling & Scaling
+    </div>
+  </div>
+
+<div class="ui divider"></div>
+
 <p class="about-text">
 	<span class="fa fa-briefcase about-icon"></span> Currently working at <a href="https://absa.co.za"><strong>Absa</strong></a>. as a <strong>data scientist</strong> delivering solutions across the group. Furthermore, consulting as the <strong>data lead</strong> into the groups strategy function for strategic initiatives. Previously, I consulted as a <strong> business analyst</strong> into big corporates (<a href="https://www.rmb.co.za/"><strong>Rand Merchant Bank</strong></a>, <a href="https://www.discovery.co.za/"><strong>Discovery</strong></a>).
 </p>
@@ -30,4 +57,3 @@ css: /css/aboutme.css
 <p class = "about-text">
 	<span class = "fa fa-home about-icon"></span> Grew up and now live in <i>Johannesburg, South Africa</i>.
 </p>
-
