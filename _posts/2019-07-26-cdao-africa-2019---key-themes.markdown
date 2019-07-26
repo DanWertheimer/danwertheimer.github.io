@@ -37,7 +37,7 @@ Something I, as a data scientist, have harped on about a lot is data quality and
 
 ## 3. Everyone Wants AI
 
-Many of the presentation at CDAO focused on how business' should adopt AI and data science but from the discussion I had outside of these sessions, no one is ready. Quality data is a requirement for good models. It's the whole "garbage in, garbage out" discussion but at the same time, running models in production has it's own problems including infrastructure requirements and what needs to happen when these models begin to age (among a host of other components which are way too long to list).
+Many of the presentation at CDAO focused on how business' should adopt AI and data science but from the discussion I had outside of these sessions, no one is ready. Quality data is a requirement for good models. It's the whole "garbage in, garbage out" discussion but at the same time, running models in production has it's own problems including infrastructure requirements and what needs to happen when these models begin to age (among a host of other problems which are way too long to list).
 
 ## 4. Data Scientists Are Imperative For Data Success
 
