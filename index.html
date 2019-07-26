@@ -5,13 +5,13 @@ subtitle: Welcome to my website! Don't forget to check out my social media befor
 use-site-title: true
 bigimg: /img/big-img/structure.jpg
 ---
-<!-- Typed.js --> 
+<!-- Typed.js -->
 <script src="/js/jquery-1.11.2.min.js"></script> <!-- Typed.js uses old jquery ver -->
 <script src="/js/typed.js" type="text/javascript"></script>
 <script>
-  $(function(){
+  $(function () {
     $(".typed").typed({
-      strings: ["Data Science.","Physics.","Food.","Fitness."],
+      strings: ["Data Science.", "Physics.", "Food.", "Fitness."],
       typeSpeed: 100,
       loop: true,
       backDelay: 1000
@@ -23,7 +23,7 @@ bigimg: /img/big-img/structure.jpg
   <div class="row">
     <div class="col-sm-12">
       <div class="text-center">
-          <h1>I write about <span class="typed" style="color:#A51D1D";></span></h1>
+        <h1>I write about <span class="typed" style="color:#A51D1D" ;></span></h1>
       </div>
     </div>
   </div>
@@ -33,13 +33,13 @@ bigimg: /img/big-img/structure.jpg
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+      <h2 class="post-title">{{ post.title }}</h2>
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
+      {% if post.subtitle %}
+      <h3 class="post-subtitle">
+        {{ post.subtitle }}
+      </h3>
+      {% endif %}
     </a>
 
     <p class="post-meta">
@@ -58,7 +58,7 @@ bigimg: /img/big-img/structure.jpg
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
     </div>
@@ -71,12 +71,12 @@ bigimg: /img/big-img/structure.jpg
       <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
       {% endfor %}
       {% else %}
-        {{ post.tags | join: ", " }}
+      {{ post.tags | join: ", " }}
       {% endif %}
     </div>
     {% endif %}
 
-   </article>
+  </article>
   {% endfor %}
 </div>
 

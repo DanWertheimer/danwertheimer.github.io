@@ -256,6 +256,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
+  - octopress-pullquote-tag
+
 
 webmaster_verifications:
   google: "ArE9A6w0hjG7J8f1FAL-fGxBVfcB48fCu5tL_Gskz4U"

@@ -213,6 +213,9 @@ GEM
       mini_portile2 (~> 2.3.0)
     octokit (4.13.0)
       sawyer (~> 0.8.0, >= 0.5.3)
+    octopress-pullquote-tag (1.0.1)
+      jekyll
+      rubypants-unicode
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -223,6 +226,7 @@ GEM
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
+    rubypants-unicode (0.2.5)
     rubyzip (1.2.2)
     safe_yaml (1.0.4)
     sass (3.7.2)
@@ -249,6 +253,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 193)
   jekyll-paginate
+  octopress-pullquote-tag
 
 BUNDLED WITH
    2.0.1

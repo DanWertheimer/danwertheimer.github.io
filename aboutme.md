@@ -7,18 +7,7 @@ css: /css/aboutme.css
 ---
 
 <h1 class="ui header">Upcoming Talks:</h1>
-<div class="ui divided items">
-  <div class="item">
-    <div class="ui small image">
-      <img src="/img/Conferences/CDAO2019.jpg">
-    </div>
-    <div class="middle aligned content">
-      <a href="https://cdao-af.coriniumintelligence.com/"> 17-18 July: Chief Data & Analytics Officer 2019 </a> <br>
-	   - Using & Adapting Data Science Products Across the Business Group
 
-    </div>
-
-  </div>
   <div class="ui divided items">
   <div class="item">
     <div class="ui small image">
@@ -26,7 +15,8 @@ css: /css/aboutme.css
     </div>
     <div class="middle aligned content">
       <a href="https://datascience-af.coriniumintelligence.com">6-7 November: Data Science Africa 2019: </a> <br>
-	  - Data Science Modelling & Scaling
+	  - Data Science Modelling & Scaling <br>
+    - Data Science & Engineering Use Case
     </div>
   </div>
 
@@ -57,3 +47,16 @@ css: /css/aboutme.css
 <p class = "about-text">
 	<span class = "fa fa-home about-icon"></span> Grew up and now live in <i>Johannesburg, South Africa</i>.
 </p>
+
+<h1 class="ui header">Previous Talks:</h1>
+<div class="ui divided items">
+  <div class="item">
+    <div class="ui small image">
+      <img src="/img/Conferences/CDAO2019.jpg">
+    </div>
+    <div class="middle aligned content">
+      <a href="https://cdao-af.coriniumintelligence.com/"> 17-18 July: Chief Data & Analytics Officer 2019 </a> <br>
+	   - Using & Adapting Data Science Products Across the Business Group
+    </div>
+
+  </div>
