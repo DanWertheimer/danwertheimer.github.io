@@ -3,6 +3,7 @@ title: CDAO Africa 2019 - Key Themes
 description: A summary of the recurring themes discussed at the Chief Data and Analytics Officer Africa 2019
 author: Daniel Wertheimer
 layout: post
+tags: data-science conference
 comments: true
 ---
 
