@@ -5,6 +5,7 @@ author: Daniel Wertheimer
 layout: post
 tags: data-science conference
 comments: true
+permalink: /cdao-africa-2019
 ---
 
 On the 17th and 18th of July I attended the Chief Data and Analytics Officer event as a speaker, hosted by [Corinium](https://www.coriniumintelligence.com/). The event was a great success with the heads of many analytics teams meeting to discuss their successes, failures and other burning data related matters in their respective industries.
