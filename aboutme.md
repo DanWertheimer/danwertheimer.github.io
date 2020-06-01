@@ -11,15 +11,41 @@ css: /css/aboutme.css
   <div class="ui divided items">
   <div class="item">
     <div class="ui small image">
+      <img src="/img/Conferences/AIExpo2020.png">
+    </div>
+    <div class="middle aligned content">
+      <a href="https://ss-af.coriniumintelligence.com/">3-4 September: AI Expo Africa Africa 2020:</a> <br>
+      <b>Growing a Data Science team, from legacy to success </b> <br>
+    </div>
+  
+  </div>
+  
+  <div class="ui divided items">
+  <div class="item">
+    <div class="ui small image">
       <img src="/img/Conferences/SSA2020.jpg">
     </div>
     <div class="middle aligned content">
-      <a href="https://ss-af.coriniumintelligence.com/">9-11 June: Shared Services Africa 2020:</a> <br>
+      <a href="http://aiexpoafrica.com/">15-17 September: Shared Services Africa 2020:</a> <br>
       <b>ABSA The Evolution as a Data Science Shared Service Team </b> <br>
 	  - The Past: Addressing Absa's legacy way of work <br>
     - The Present: key changes that drove shared service success for data science projects <br>
     - The Future: how we plan to better integrate ourselves into business unit projects for faster value delivery
     </div>
+  
+  </div>
+
+  <div class="ui divided items">
+
+  <div class="item">
+    <div class="ui small image">
+      <img src="/img/Conferences/KIW2020.png">
+    </div>
+    <div class="middle aligned content">
+      <a href="https://kiweb.co.za/project-details/business-intelligence-analytics-conference-2020-25-26-june-at-sandton-convention-centre-in-sandton-johannesburg/">5-6 November: Business Intelligence & Analytics Conference 2020</a> <br>
+      <b>Strategy to merge and integrate data from different systems </b> <br>
+    </div>
+  
   </div>
 
 <div class="ui divider"></div>
